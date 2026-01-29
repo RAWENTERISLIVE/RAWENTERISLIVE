@@ -1,4 +1,8 @@
-<iframe src="https://github.com/sponsors/RAWENTERISLIVE/card" title="Sponsor RAWENTERISLIVE" height="225" width="600" style="border: 0;"></iframe>
+### ❤️ Sponsor RAWENTERISLIVE  
+Support my open‑source work on GitHub Sponsors.  
+
+[![Sponsor RAWENTERISLIVE](https://img.shields.io/badge/Sponsor-RAWENTERISLIVE-pink?logo=github-sponsors&logoColor=white)](https://github.com/sponsors/RAWENTERISLIVE)
+
 # 💫 About Me:
 🔭 I’m currently working on FinMate & Karat-Finance<br>👯 I’m looking to collaborate on AI/ML Projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Project Management & Leadership<br>💬 Ask me about anything<br>⚡ Fun fact: i am in class 12th
 
